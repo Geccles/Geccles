@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on expanding my web development knowledge.
 - 🌱 I’m currently learning python, tailwind, and advanced javascript.
 - 👯 I’m looking to collaborate on anything in the web! Really!
-- 🤔 I’m looking for help with finding my next role, are you hiring? Let's chat!
+- 👩‍💻 I’m working with Listella!
 - 💬 Ask me about my love for 🌮.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/galinaeccles/), [Email](geccles01@gmail.com)
 - 😄 Pronouns: she/her
